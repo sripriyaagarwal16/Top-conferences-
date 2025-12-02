@@ -20,7 +20,7 @@
 
 ---
 
-### 🎯 Suggested Conferences for My Work (EEG + Medical ML + Imaging + Signal‑based)
+### 🎯 Suggested Conferences ( Medical ML + Imaging )
 
 - **MICCAI** — For medical imaging & healthcare‑oriented AI work.  
 - **NeurIPS / ICML / ICLR** — For strong ML/DL methodology if I’m working on signal or image-based models (e.g. EEG classification, deep‑learning for medical images).  
